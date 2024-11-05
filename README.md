@@ -1,6 +1,6 @@
 Hi, I’m Erika Maquiling, and I'm currently an undergraduate CSE and Applied Math Student at UC Merced, graduating in Spring 2026! 
 
-I'm really interested in Data Science, but also open to learning fullstack development.
+I'm really interested in the application of Machine Learning in Data Science, but also open to learning fullstack development.
 
 Email: erikacmaquiling@gmail.com / LinkedIn: @erikamaquiling
 Pronouns: she/her
